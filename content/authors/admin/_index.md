@@ -37,7 +37,7 @@ education:
   courses:
     - course: Ph.D. Biostatistics
       institution: Vanderbilt University
-      year: ""
+      year: 2022
     - course: B.A. Mathematics, concentration Statistics
       institution: Saint Olaf College
       year: 2016
