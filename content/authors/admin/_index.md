@@ -24,7 +24,7 @@ social:
       header: false
     icon_pack: ai
     icon: cv
-    link: https://drive.google.com/file/d/1krbkF-tdVCpTT3NrlNcXGl3oK1souvbA/view?usp=sharing
+    link: files/cv.pdf
   - display:
       header: false
     icon_pack: ai
