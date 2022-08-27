@@ -4,9 +4,9 @@ avatar_filename: headshot_outline.png
 bio: My research interests include survival analysis, Bayesian methods,
   meta-analysis, and RStats.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Survival Analysis
+  - Bayesian Methods
+  - Meta-analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,6 +20,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/elizabeth-sigworth-westerberg/
+  - display:
+      header: false
+    icon_pack: fas
+    icon: cv
+    link: https://drive.google.com/file/d/1krbkF-tdVCpTT3NrlNcXGl3oK1souvbA/view?usp=sharing
+  - display:
+      header: false
+    icon_pack: fas
+    icon: orcid
+    link: https://orcid.org/0000-0002-0865-0265
 organizations:
   - name: Vanderbilt University
     url: https://www.vanderbilt.edu/biostatistics-graduate/
@@ -27,7 +37,7 @@ education:
   courses:
     - course: Ph.D. Biostatistics
       institution: Vanderbilt University
-      year: ""
+      year: 2022
     - course: B.A. Mathematics, concentration Statistics
       institution: Saint Olaf College
       year: 2016
@@ -36,7 +46,6 @@ highlight_name: true
 title: Elizabeth Anne Sigworth Westerberg
 email: ""
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
