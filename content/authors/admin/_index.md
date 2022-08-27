@@ -22,12 +22,12 @@ social:
     link: https://www.linkedin.com/in/elizabeth-sigworth-westerberg/
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: ai
     icon: cv
     link: https://drive.google.com/file/d/1krbkF-tdVCpTT3NrlNcXGl3oK1souvbA/view?usp=sharing
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: ai
     icon: orcid
     link: https://orcid.org/0000-0002-0865-0265
 organizations:
