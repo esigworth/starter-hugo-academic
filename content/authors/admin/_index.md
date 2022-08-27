@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/elizabeth-sigworth-westerberg/
   - display:
-      header: true
+      header: false
     icon_pack: ai
     icon: cv
     link: files/cv.pdf
