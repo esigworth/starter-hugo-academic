@@ -1,8 +1,8 @@
 ---
 role: Ph.D. Candidate and Research Assistant in Biostatistics
 avatar_filename: headshot_outline.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include survival analysis, Bayesian methods,
+  meta-analysis, and RStats.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
