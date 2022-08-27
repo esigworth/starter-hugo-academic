@@ -20,6 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/elizabeth-sigworth-westerberg/
+  - display:
+      header: false
+    icon_pack: fas
+    icon: cv
+    link: https://drive.google.com/file/d/1krbkF-tdVCpTT3NrlNcXGl3oK1souvbA/view?usp=sharing
 organizations:
   - name: Vanderbilt University
     url: https://www.vanderbilt.edu/biostatistics-graduate/
