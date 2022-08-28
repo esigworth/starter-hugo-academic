@@ -14,7 +14,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/E_Sigworth
-  - icon: google scholar
+  - icon: googlescholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Frus23MAAAAJ&hl=en&oi=ao
   - icon: linkedin
