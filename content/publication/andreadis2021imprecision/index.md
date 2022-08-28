@@ -12,7 +12,7 @@ authors:
   - Sharma, Mohit M
   - Demetres, Michelle
   - Delgado, Diana
-  - *Sigworth, Elizabeth A*
+  - \*Sigworth, Elizabeth A\*
   - Chen, Qingxia
   - Liu, Andrew 
   - Liu, Lisa Grossman
