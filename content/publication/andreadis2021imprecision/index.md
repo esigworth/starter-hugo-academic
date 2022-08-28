@@ -5,20 +5,20 @@ title: 'Imprecision and preferences in interpretation of verbal probabilities in
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Katerina Andreadis
-  - Ethan Chan
-  - Minha Park
-  - Natalie C Benda
-  - Mohit M Sharma
-  - Michelle Demetres
-  - Diana Delgado
-  - __Elizabeth A Sigworth__
-  - Qingxia Chen
-  - Andrew Liu
-  - Lisa Grossman Liu
-  - Marianne Sharko
-  - Brian J Zikmund-Fisher
-  - Jessica S Ancker
+  - Andreadis, Katerina
+  - Chan, Ethan
+  - Park, Minha
+  - Benda, Natalie C
+  - Sharma, Mohit M
+  - Demetres, Michelle
+  - Delgado, Diana
+  - **Sigworth, Elizabeth A**
+  - Chen, Qingxia
+  - Liu, Andrew 
+  - Liu, Lisa Grossman
+  - Sharko, Marianne
+  - Zikmund-Fisher, Brian J
+  - Ancker, Jessica S
 
 # Author notes (optional)
 # author_notes:
