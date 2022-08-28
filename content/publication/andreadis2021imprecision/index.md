@@ -12,7 +12,7 @@ authors:
   - Mohit M Sharma
   - Michelle Demetres
   - Diana Delgado
-  - '**Elizabeth A Sigworth**'
+  - __Elizabeth A Sigworth__
   - Qingxia Chen
   - Andrew Liu
   - Lisa Grossman Liu
