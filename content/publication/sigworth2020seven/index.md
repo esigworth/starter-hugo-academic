@@ -12,7 +12,7 @@ authors:
   - Shervin A. Etemad
 
 # Author notes (optional)
- author_notes:
+author_notes:
   - 
   - 'Maiden name'
   -
