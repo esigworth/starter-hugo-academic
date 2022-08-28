@@ -12,7 +12,7 @@ authors:
   - Sharma, Mohit M
   - Demetres, Michelle
   - Delgado, Diana
-  - \*Sigworth, Elizabeth A\*
+  - Sigworth, Elizabeth A
   - Chen, Qingxia
   - Liu, Andrew 
   - Liu, Lisa Grossman
@@ -22,8 +22,20 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 'Maiden name'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 date: '2021-08-06T00:00:00Z'
 doi: '10.1007/s11606-021-07050-7'
