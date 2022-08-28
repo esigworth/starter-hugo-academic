@@ -10,18 +10,12 @@ authors:
   - Hayley Rector
   - Andrew J. Teare
   - Tyler W. Barrett
-  - Elizabeth A. Sigworth
+  - Elizabeth-Sigworth
   - et al
 
 # Author notes (optional)
 author_notes:
-  - 
-  -
-  -
-  -
-  -
-  - 'Maiden name'
-  -
+
 
 date: '2022-01-24T00:00:00Z'
 doi: '10.1213/ANE.0000000000005976'

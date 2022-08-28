@@ -6,16 +6,12 @@ title: 'Pop-out search instigates beta-gated feature selectivity enhancement acr
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jacob A Westerberg
-  - Elizabeth A. Sigworth
+  - Elizabeth-Sigworth
   - Jeffrey D Schall
   - Alexander Maier
 
 # Author notes (optional)
-author_notes:
-  - 
-  - 'Maiden name'
-  -
-  -
+# author_notes:
 
 date: '2022-04-15T00:00:00Z'
 doi: '10.1073/pnas.2103702118'

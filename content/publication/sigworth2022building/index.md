@@ -12,12 +12,8 @@ authors:
   - Qingxia Chen
 
 # Author notes (optional)
-author_notes:
-  - 'Maiden name'
-  -
-  -
-  -
-  -
+# author_notes:
+
 
 date: '2022-07-01T00:00:00Z'
 # doi: '10.1016/j.isci. 2022.104045'

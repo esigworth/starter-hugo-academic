@@ -5,7 +5,7 @@ title: 'Development of a Bayesian toxo-equivalence model between docetaxel and p
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Elizabeth A. Sigworth
+  - Elizabeth-Sigworth
   - Samuel M. Rubinstein
   - Sandip Chaugai
   - Donna R Rivera
@@ -15,7 +15,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Maiden name, equal contribution'
+  - 'Equal contribution'
   - 'Equal contribution'
   -
   -

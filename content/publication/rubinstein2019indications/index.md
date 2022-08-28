@@ -6,20 +6,15 @@ title: 'Indication of measures of uncertainty for statistical significance in ab
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Samuel M Rubinstein
-  - Elizabeth A. Sigworth
+  - Elizabeth-Sigworth
   - Shervin Etemad
   - Richard L Martin
   - Qingxia Chen
   - Jeremy L Warner
 
 # Author notes (optional)
-author_notes:
-  - 
-  - 'Maiden name'
-  -
-  -
-  -
-  -
+# author_notes:
+
 
 date: '2019-12-13T00:00:00Z'
 doi: '10.1001/jamanetworkopen.2019.17530'

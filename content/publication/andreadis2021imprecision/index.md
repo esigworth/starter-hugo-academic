@@ -12,7 +12,7 @@ authors:
   - Mohit M Sharma
   - Michelle Demetres
   - Diana Delgado
-  - Elizabeth A Sigworth
+  - Elizabeth-Sigworth
   - Qingxia Chen
   - Andrew Liu
   - Lisa Grossman Liu
@@ -21,21 +21,8 @@ authors:
   - Jessica S Ancker
 
 # Author notes (optional)
-author_notes:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 'Maiden name'
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+# author_notes:
+
 
 date: '2021-08-06T00:00:00Z'
 doi: '10.1007/s11606-021-07050-7'

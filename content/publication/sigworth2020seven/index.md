@@ -6,19 +6,15 @@ title: 'Seven decades of chemotherapy clinical trials: a pan‐cancer social net
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xuanyi Li
-  - Elizabeth A. Sigworth
+  - Elizabeth-Sigworth
   - Adrianne H. Wu
   - Jess Behrens1
   - Shervin A. Etemad
   - et al
 
 # Author notes (optional)
-author_notes:
-  - 
-  - 'Maiden name'
-  -
-  -
-  -
+#author_notes:
+
 
 date: '2020-10-16T00:00:00Z'
 doi: '10.1038/s41598-020-73466-6'
