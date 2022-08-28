@@ -1,27 +1,30 @@
 ---
-title: 'Seven decades of chemotherapy clinical trials: a pan‐cancer social network analysis'
+title: 'Assessment of a naloxone coprescribing alert for patients at risk of opioid overdose: a quality improvement project'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xuanyi Li
+  - Scott D. Nelson
+  - Allison B. McCoy
+  - Hayley Rector
+  - Andrew J. Teare
+  - Tyler W. Barrett
   - Elizabeth A. Sigworth
-  - Adrianne H. Wu
-  - Jess Behrens1
-  - Shervin A. Etemad
   - et al
 
 # Author notes (optional)
 author_notes:
   - 
+  -
+  -
+  -
+  -
   - 'Maiden name'
   -
-  -
-  -
 
-date: '2020-10-16T00:00:00Z'
-doi: '10.1038/s41598-020-73466-6'
+date: '2022-01-24T00:00:00Z'
+doi: '10.1213/ANE.0000000000005976'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2020-10-16T00:00:00Z'
@@ -33,11 +36,11 @@ doi: '10.1038/s41598-020-73466-6'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Scientific Reports*
-publication_short: In *Nat Sci Rep*
+publication: In *Anesthesia \& Analgesia*
+publication_short: In *Anesth Analg*
 
 
-tags: [network analysis, oncology, meta-analysis]
+tags: [longitudinal]
 
 # Display this page in the Featured widget?
 featured: true
