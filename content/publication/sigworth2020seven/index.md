@@ -8,12 +8,15 @@ authors:
   - Xuanyi Li
   - Elizabeth-Sigworth
   - Adrianne H. Wu
-  - Jess Behrens1
+  - Jess Behrens
   - Shervin A. Etemad
   - et al
 
 # Author notes (optional)
-#author_notes:
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 
 date: '2020-10-16T00:00:00Z'
