@@ -25,16 +25,16 @@ experience:
   - title: Biostatistics Ph.D. Candidate
     company: Dept. Biostatistics, Vanderbilt Univ.
     company_url: ''
-    company_logo: vanderbilt_v
+    company_logo: Black_Pinstripe_V
     location: Nashville, TN, USA
     date_start: '2016-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developed Bayesian meta-analytic method guiding medication switching, focused on chemotherapy 
+        * Extensive experience with survival analysis, particularly time-dependent coefficient effects
+        * Completed coursework in mathematics, probability theory, computing (R and Python), and statistical modeling 
+        * Served as teaching assistant for Regression Analysis, Survival Analysis, and Advanced Probability courses
 
   - title: Professor of Semiconductor Physics
     company: University X
