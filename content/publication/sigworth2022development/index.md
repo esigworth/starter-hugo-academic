@@ -24,7 +24,7 @@ author_notes:
   -
 
 date: '2022-04-15T00:00:00Z'
-doi: '10.1016/j.isci. 2022.104045'
+doi: '10.1016/j.isci.2022.104045'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2020-10-16T00:00:00Z'
