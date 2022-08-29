@@ -38,7 +38,7 @@ experience:
 
   - title: Medical Economics Analyst
     company: Wayspring (formerly axialHealthcare)
-    company_url: 'https://wayspring.com'
+    company_url: ''
     #company_logo: wayspring
     location: Nashville, TN, USA
     date_start: '2018-06-01'
@@ -64,6 +64,31 @@ experience:
         * Performed meta- and network analyses in R on clinical trial publishing and co-authorship trends over  time
         * Collaborated with clinicians for analyses, manuscript publication, and conference presentations 
         * Dedicated effort towards multisite NIH grant 1U24CA194215
+
+  - title: Neuroscience Collaborator
+    company: Vanderbilt Brain Institute
+    company_url: ''
+    #company_logo: Black_Pinstripe_V
+    location: Nashville, TN, USA
+    date_start: '2020-04-01'
+    date_end: '2021-11-01'
+    description: |2-
+      
+        * Devised statistical modeling strategies for cognitive neurophysiological datasets via Bayesian methods 
+        * Coauthored high impact manuscript in multidisciplinary journal (see PNAS 2021 below) 
+        * Provided ongoing statistical consultation and education to groups at the Vanderbilt Brain Institute
+
+  - title: Graduate Student Association Officer
+    company: Dept. Biostatistics, Vanderbilt Univ.
+    company_url: ''
+    #company_logo: Black_Pinstripe_V
+    location: Nashville, TN, USA
+    date_start: '2016-08-01'
+    date_end: '2021-05-01'
+    description: |2-
+      
+        * Organized trainee events, invited guest speakers, and liaised with faculty and staff on behalf of students  
+        * Acted as Secretary from August 2018 - May 2019 then Vice President August 2019 - May 2021
 
 design:
   columns: '2'
