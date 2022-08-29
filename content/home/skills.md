@@ -22,11 +22,11 @@ feature:
     name: R
   - description: numpy, pandas, scikit-learn, etc.
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - description: 10%
     icon: chart-network
-    icon_pack: far
+    icon_pack: fas
     name: Statistical Analysis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
