@@ -24,7 +24,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Bayesian methods, survival analysis, meta-analysis, regression, etc.
+  - description: Bayesian methods, survival analysis, meta-analysis, regression, simulation
     icon: chart-line
     icon_pack: fas
     name: Statistics
@@ -32,8 +32,12 @@ feature:
     icon: database
     icon_pack: fas
     name: Data platforms
-  - description: RMarkdown, Tableau, LaTeX, Beamer
-    icon: laptop-file
+  - description: GitHub, JIRA, Confluence, Trello
+    icon: code-branch
+    icon_pack: fas
+    name: Development tools
+  - description: RMarkdown, Tableau, \\LaTeX, Beamer, Microsoft Suite
+    icon: file-lines
     icon_pack: fas
     name: Reporting
 # Uncomment to use emoji icons.
