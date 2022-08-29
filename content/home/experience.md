@@ -25,7 +25,7 @@ experience:
   - title: Biostatistics Ph.D. Candidate
     company: Dept. Biostatistics, Vanderbilt Univ.
     company_url: ''
-    company_logo: Black_Pinstripe_V
+    #company_logo: Black_Pinstripe_V
     location: Nashville, TN, USA
     date_start: '2016-08-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Medical Economics Analyst
     company: Wayspring (formerly axialHealthcare)
     company_url: 'https://wayspring.com'
-    company_logo: wayspring
+    #company_logo: wayspring
     location: Nashville, TN, USA
     date_start: '2018-06-01'
     date_end: ''
@@ -54,7 +54,7 @@ experience:
   - title: Graduate Research Assistant
     company: Dept. Biomedical Informatics, Vanderbilt Univ.
     company_url: ''
-    company_logo: Black_Pinstripe_V
+    #company_logo: Black_Pinstripe_V
     location: Nashville, TN, USA
     date_start: '2018-01-01'
     date_end: ''
