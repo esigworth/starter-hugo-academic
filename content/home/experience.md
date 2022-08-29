@@ -60,10 +60,10 @@ experience:
     date_end: ''
     description: |2-
         
-* Focused on oncology data using clinical trial data, electronic health records, and genetic data 
-* Performed meta- and network analyses in R on clinical trial publishing and co-authorship trends over time
-* Collaborated with clinicians for analyses, manuscript publication, and conference presentations 
-* Dedicated effort towards multisite NIH grant [1U24CA194215](https://reporter.nih.gov/search/jDJX-K4Ydk-fO0ITgF1l1g/project-details/9094161)
+        * Focused on oncology data using clinical trial data, electronic health records, and genetic data 
+        * Performed meta- and network analyses in R on clinical trial publishing and co-authorship trends over  time
+        * Collaborated with clinicians for analyses, manuscript publication, and conference presentations 
+        * Dedicated effort towards multisite NIH grant [1U24CA194215](https://reporter.nih.gov/search/jDJX-K4Ydk-fO0ITgF1l1g/project-details/9094161)
 
 design:
   columns: '2'
