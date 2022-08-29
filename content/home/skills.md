@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - description: Bayesian methods, survival analysis, meta-analysis, regression, simulation
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics 
   - description: dplyr, ggplot2, RStan, JAGS, etc.
     icon: r-project
     icon_pack: fab
@@ -24,10 +28,6 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Bayesian methods, survival analysis, meta-analysis, regression, simulation
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
   - description: Exasol, PostgreSQL, Redshift, Google BigQuery
     icon: database
     icon_pack: fas
@@ -36,7 +36,7 @@ feature:
     icon: code-branch
     icon_pack: fas
     name: Development tools
-  - description: RMarkdown, Tableau, \\LaTeX, Beamer, Microsoft Suite
+  - description: RMarkdown, Tableau, LaTeX, Beamer, Microsoft Suite
     icon: file-lines
     icon_pack: fas
     name: Reporting
