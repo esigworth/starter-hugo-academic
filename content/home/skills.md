@@ -24,10 +24,18 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 10%
-    icon: chart-network
+  - description: Bayesian methods, survival analysis, meta-analysis, regression, etc.
+    icon: chart-line
     icon_pack: fas
-    name: Statistical Analysis
+    name: Statistics
+  - description: Exasol, PostgreSQL, Redshift, Google BigQuery
+    icon: database
+    icon_pack: fas
+    name: Data platforms
+  - description: RMarkdown, Tableau, LaTeX, Beamer
+    icon: laptop-file
+    icon_pack: fas
+    name: Reporting
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
