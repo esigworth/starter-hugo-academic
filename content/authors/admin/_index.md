@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:elizabeth@westerberg.science
+    link: mailto:elizabeth.a.s.westerberg@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/E_Sigworth
