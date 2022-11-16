@@ -28,7 +28,7 @@ experience:
     #company_logo: Black_Pinstripe_V
     location: Nashville, TN, USA
     date_start: '2016-08-01'
-    date_end: ''
+    date_end: '2022-12-17'
     description: |2-
         
         * Developed Bayesian meta-analytic method guiding medication switching, focused on chemotherapy 
@@ -57,7 +57,7 @@ experience:
     #company_logo: Black_Pinstripe_V
     location: Nashville, TN, USA
     date_start: '2018-01-01'
-    date_end: ''
+    date_end: '2022-12-17'
     description: |2-
       
         * Focused on oncology data using clinical trial data, electronic health records, and genetic data 
@@ -70,12 +70,12 @@ experience:
     company_url: ''
     #company_logo: Black_Pinstripe_V
     location: Nashville, TN, USA
-    date_start: '2020-04-01'
-    date_end: '2021-11-01'
+    date_start: '2019-06-01'
+    date_end: '2021-12-01'
     description: |2-
       
         * Devised statistical modeling strategies for cognitive neurophysiological datasets via Bayesian methods 
-        * Coauthored high impact manuscript in multidisciplinary journal (see PNAS 2021 below) 
+        * Coauthored high impact manuscript in multidisciplinary journal (see PNAS 2021) 
         * Provided ongoing statistical consultation and education to groups at the Vanderbilt Brain Institute
 
   - title: Graduate Student Association Officer
