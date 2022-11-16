@@ -1,5 +1,5 @@
 ---
-role: Ph.D., Biostatistics
+role: Ph.D. Biostatistics | Medical Economics Analyst | RStats | Network Analysis | Meta-Analysis
 avatar_filename: headshot_outline.png
 bio: My research interests include survival analysis, Bayesian methods,
   meta-analysis, and RStats.

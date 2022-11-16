@@ -25,7 +25,7 @@ date: '2022-11-16T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
- publication: Manuscript under preparation
+publication: Manuscript under preparation
 # publication_short: In *PNAS*
 
 
