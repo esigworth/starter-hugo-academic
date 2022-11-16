@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: '2022-12-31T00:00:00Z'
+date: '2022-11-16T00:00:00Z'
 # doi: '10.1073/pnas.2103702118'
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ date: '2022-12-31T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Proceedings of the National Academy of Sciences*
+ publication: Manuscript under preparation
 # publication_short: In *PNAS*
 
 
@@ -70,13 +70,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-# {{% callout note %}}
-# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the _Slides_ button to check out the example.
-# {{% /callout %}}
-
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
