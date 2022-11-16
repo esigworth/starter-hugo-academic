@@ -1,5 +1,5 @@
 ---
-role: Ph.D. Candidate and Research Assistant in Biostatistics
+role: Ph.D., Biostatistics
 avatar_filename: headshot_outline.png
 bio: My research interests include survival analysis, Bayesian methods,
   meta-analysis, and RStats.
@@ -48,8 +48,8 @@ highlight_name: true
 title: Elizabeth Anne Sigworth Westerberg
 email: ""
 ---
-Elizabeth Westerberg is a Ph.D. Candidate in the Department of Biostatistics at Vanderbilt University, with an anticipated completion date in November 2022. Her research interests include survival analysis, Bayesian methods, and meta-analysis. She currently works under the advisement of Dr. Qingxia Chen on various projects, with particular focus on applications to oncology. 
+Elizabeth Westerberg recently completed her Ph.D. in Biostatistics at Vanderbilt University. Her research interests include survival analysis, Bayesian methods, and meta-analysis. She worked under the advisement of Dr. Qingxia Chen, with a particular focus on applications to oncology. 
 
-In addition to her work as a Graduate Research Assistant, she has served as a Data Analyst for Wayspring, a company that contracts with health insurers to reduce opioid dependency among their members, as well as a collaborator with the Vanderbilt Brain Institute.
+In addition to her work as a Graduate Research Assistant, she has served as a Medical Economics Analyst for Wayspring, a company that contracts with health insurers to reduce opioid dependency among their members, as well as a collaborator with the Vanderbilt Brain Institute.
 
-She is currently looking for a position in statistics or data science in Amsterdam, Netherlands, beginning March 2023.
+She is currently looking for a position in statistics or data science in the Netherlands, remote or on-site (near Amsterdam), beginning March 2023.
