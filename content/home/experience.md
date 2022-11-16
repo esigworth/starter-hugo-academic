@@ -22,20 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Biostatistics Ph.D. Candidate
-    company: Dept. Biostatistics, Vanderbilt Univ.
-    company_url: ''
-    #company_logo: Black_Pinstripe_V
-    location: Nashville, TN, USA
-    date_start: '2016-08-01'
-    date_end: '2022-12-17'
-    description: |2-
-        
-        * Developed Bayesian meta-analytic method guiding medication switching, focused on chemotherapy 
-        * Extensive experience with survival analysis, particularly time-dependent coefficient effects
-        * Completed coursework in mathematics, probability theory, computing (R and Python), and statistical modeling
-        * Served as teaching assistant for Regression Analysis, Survival Analysis, and Advanced Probability courses
-
   - title: Medical Economics Analyst
     company: Wayspring (formerly axialHealthcare)
     company_url: ''
@@ -50,6 +36,20 @@ experience:
         * Utilized time-series trend forecasting, risk-adjustment, longitudinal analysis, and propensity-score designs in reporting 
         * Coded automated in-house implementation of risk adjustment methodology in R and SQL 
         * Began as intern in June 2018, with responsibilities shifted to part-time analyst level in May 2020
+        
+  - title: Biostatistics Ph.D. Candidate
+    company: Dept. Biostatistics, Vanderbilt Univ.
+    company_url: ''
+    #company_logo: Black_Pinstripe_V
+    location: Nashville, TN, USA
+    date_start: '2016-08-01'
+    date_end: '2022-12-17'
+    description: |2-
+        
+        * Developed Bayesian meta-analytic method guiding medication switching, focused on chemotherapy 
+        * Extensive experience with survival analysis, particularly time-dependent coefficient effects
+        * Completed coursework in mathematics, probability theory, computing (R and Python), and statistical modeling
+        * Served as teaching assistant for Regression Analysis, Survival Analysis, and Advanced Probability courses
 
   - title: Graduate Research Assistant
     company: Dept. Biomedical Informatics, Vanderbilt Univ.
