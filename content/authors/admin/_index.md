@@ -18,6 +18,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Frus23MAAAAJ&hl=en&oi=ao
+  - icon: github
+  	icon_pack: fab
+	link: https://github.com/esigworth?tab=repositories
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/elizabeth-sigworth-westerberg/
